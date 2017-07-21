@@ -1,0 +1,1 @@
+{"source":".atom-dock-toggle-button-inner,\n.atom-dock-toggle-button {\n  display: none !important;\n}\nbody {\n  background: red !important;\n}\n"}

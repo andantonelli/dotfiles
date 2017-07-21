@@ -1,0 +1,1 @@
+{"source":".atom-dock-toggle-button-inner,\n.atom-dock-toggle-button {\n  display: none !important;\n}\n.list-tree.has-collapsable-children .list-nested-item > .list-tree > li,\n.list-tree.has-collapsable-children .list-nested-item > .list-group > li {\n  padding-left: 12px;\n}\n.tree-view .full-menu {\n  padding-left: 0;\n}\n"}
