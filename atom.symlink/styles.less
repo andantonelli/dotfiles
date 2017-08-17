@@ -8,7 +8,10 @@
   padding-left: 12px;
 }
 
-.list-tree li.list-nested-item > .list-item {
+.list-tree li:not(.list-nested-item):not(.tabBlender),
+.list-group li:not(.list-nested-item):not(.tabBlender),
+.list-tree li.list-nested-item > .list-item, 
+.list-group li.list-nested-item > .list-item {
   line-height: 2.5em;
 }
 
