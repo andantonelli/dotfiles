@@ -1,3 +1,5 @@
 # Atom
 atom.symlink/packages/*
 atom.symlink/storage/*
+atom.symlink/blob-store/*
+atom.symlink/compile-cache/*

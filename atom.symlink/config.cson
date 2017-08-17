@@ -8,12 +8,12 @@
   editor:
     fontFamily: "Fira Code"
     fontSize: 13
-    showLineNumbers: false
   "exception-reporting":
     userId: "82d32054-3439-422c-bf70-eb9511ad182c"
   "file-icons":
     coloured: false
   minimap:
     absoluteMode: true
+  "tree-view": {}
   welcome:
     showOnStartup: false
