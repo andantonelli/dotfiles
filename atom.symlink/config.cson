@@ -6,7 +6,7 @@
       "atom-material-syntax-dark"
     ]
   editor:
-    fontFamily: "Operator Mono"
+    fontFamily: "Fira Code"
     fontSize: 13
     showLineNumbers: false
   "exception-reporting":
